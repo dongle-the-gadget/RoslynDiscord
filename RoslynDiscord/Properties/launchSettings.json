@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "RoslynDiscord": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
